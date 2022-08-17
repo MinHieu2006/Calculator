@@ -1,0 +1,26 @@
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\obj\Debug\máy tính.csprojAssemblyReference.cache
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\obj\Debug\máy_tính.Form1.resources
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\obj\Debug\máy tính.csproj.GenerateResource.cache
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\bin\Debug\máy tính.exe.config
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\bin\Debug\máy tính.exe
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\bin\Debug\máy tính.pdb
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\obj\Debug\máy_tính.Properties.Resources.resources
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\obj\Debug\máy tính.csproj.CoreCompileInputs.cache
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\obj\Debug\máy tính.exe
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\obj\Debug\máy tính.pdb
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\obj\Debug\máy_tính.form_pt.resources
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\obj\Debug\máy_tính.change_units.resources
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân\máy tính\máy tính\obj\Debug\máy_tính.bieudo.resources
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\bin\Debug\máy tính.exe.config
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\bin\Debug\máy tính.exe
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\bin\Debug\máy tính.pdb
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\obj\Debug\máy tính.csprojAssemblyReference.cache
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\obj\Debug\máy_tính.bieudo.resources
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\obj\Debug\máy_tính.change_units.resources
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\obj\Debug\máy_tính.Form1.resources
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\obj\Debug\máy_tính.Properties.Resources.resources
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\obj\Debug\máy_tính.form_pt.resources
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\obj\Debug\máy tính.csproj.GenerateResource.cache
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\obj\Debug\máy tính.csproj.CoreCompileInputs.cache
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\obj\Debug\máy tính.exe
+C:\Users\thpt hoang dieu\Desktop\máy tính cá nhân - Copy (2)\máy tính\máy tính\obj\Debug\máy tính.pdb
